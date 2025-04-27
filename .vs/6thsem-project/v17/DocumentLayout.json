@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\6thsem-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|e:\\6thsem-project\\6thsem-project\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\registartion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\registartion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\invoice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\invoice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\query2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\query2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\contacts2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\contacts2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\invoice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\invoice.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\assets\\css\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\assets\\css\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\contacts2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\contacts2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\query2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\query2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\madmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\madmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\report.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\report.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\madmin\\madmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\madmin\\madmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|E:\\6thsem-project\\6thsem-project\\user\\rzrpay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\rzrpay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Invoice.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Invoice.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Invoice.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Invoice.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Contact.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Contact.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Contact.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Contact.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Contact.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Contact.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.Master",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\User.Master",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\User.Master",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\User.Master",
+              "RelativeToolTip": "6thsem-project\\User\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Report.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Report.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Report.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Report.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Report.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\AboutUs.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\AboutUs.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-05T13:24:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Success.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Success.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Success.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Success.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Cart.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Cart.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Cart.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Payment.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Payment.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Payment.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Payment.aspx.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Users.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Users.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Users.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Admin.Master",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Admin.Master",
+              "RelativeToolTip": "6thsem-project\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contacts2.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Contacts2.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Contacts2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Dashboard.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Login.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Login.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Login.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Login.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Login.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Login.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Default.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Default.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Payment.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Payment.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Payment.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Invoice.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Invoice.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Invoice.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Invoice.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Invoice.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wGkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Connection.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Connection.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Connection.cs",
+              "RelativeToolTip": "6thsem-project\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "6thsem-project\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeToolTip": "6thsem-project\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T13:09:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Web.config",
+              "RelativeDocumentMoniker": "6thsem-project\\Web.config",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Web.config",
+              "RelativeToolTip": "6thsem-project\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T13:10:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Query2.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Query2.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Query2.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Query2.aspx",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Query2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Query2.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Query2.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Query2.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Query2.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Query2.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contacts2.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MAdmin.Master",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\MAdmin.Master",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\MAdmin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Dashboard.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Report.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Report.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Report.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Report.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Report.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Users.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Users.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Users.aspx",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registartion.aspx",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\Registartion.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Registartion.aspx",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\Registartion.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Registartion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T13:09:49.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MAdmin.Master.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "rzrpay.aspx.cs",
+              "DocumentMoniker": "E:\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\rzrpay.aspx.cs",
+              "ToolTip": "E:\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\rzrpay.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:09:49.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
